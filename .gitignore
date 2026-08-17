@@ -1,0 +1,17 @@
+# ---- R session artifacts ----
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+Rplots.pdf
+
+# ---- local run logs (example_output.txt is kept as a reference) ----
+run_log*.txt
+diag.R
+
+# ---- OS ----
+Thumbs.db
+.DS_Store
+
+# ---- paid bundle must NEVER enter the free repo ----
+../lgcm_paid_bundle/
